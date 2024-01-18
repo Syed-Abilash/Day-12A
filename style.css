@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.fluid{
+    text-align: center;
+    padding: 30px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.fluid input{
+    width: 450px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid black;
+    font-size: larger;
+    
+}
+
+.flex-container{
+    display: flex;  
+    justify-content: space-around;
+     flex-direction: row;
+     flex-wrap: wrap;
+     gap:10px;
+     margin-bottom: 10px;
+}
+
+.box1{
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+.box1 h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
+.content{
+    border: 2px solid black;
+    height:160px;
+    width: 125px;
+    margin-left: 10px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+}
+.content img{
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    
+}
+.text {
+    margin-bottom: 90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+button{
+    padding: 5px;
+    width: 100px;
+   margin-bottom:120px;
+   background-color: pink;
+   
+}
+.box2 {
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+
+.box2 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
+.box3 {
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+
+.box3 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
+.box4 {
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+
+.box4 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
+.box5 {
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+
+.box5 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
+.box6 {
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+
+.box6 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.box7 {
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+
+.box7 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.box8 {
+    border: 2px solid black;
+    height: 230px;
+    width: 300px;
+}
+
+.box8 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+}
